@@ -1,0 +1,22 @@
+# Android/Gradle
+.gradle/
+build/
+*/build/
+local.properties
+*.iml
+.idea/
+
+# Local configuration and secrets
+.env
+.env.*
+*.jks
+*.keystore
+*.pem
+*.key
+google-services.json
+
+# Logs and user data
+*.log
+captures/
+uploads/
+
