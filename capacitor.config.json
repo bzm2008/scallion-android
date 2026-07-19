@@ -1,0 +1,12 @@
+{
+  "appId": "com.scallion.app",
+  "appName": "Scallion",
+  "webDir": "www",
+  "server": {
+    "url": "https://scallion.uno",
+    "cleartext": false
+  },
+  "android": {
+    "backgroundColor": "#1a1a1a"
+  }
+}
